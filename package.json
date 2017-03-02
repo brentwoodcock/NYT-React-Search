@@ -1,0 +1,31 @@
+{
+  "name": "nyt-react-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brentwoodcock/NYT-React-Search.git"
+  },
+  "author": "Brent Woodcock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brentwoodcock/NYT-React-Search/issues"
+  },
+  "homepage": "https://github.com/brentwoodcock/NYT-React-Search#readme",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "bluebird": "^3.4.7",
+    "body-parser": "^1.17.0",
+    "express": "^4.15.0",
+    "mongoose": "^4.8.5",
+    "morgan": "^1.8.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-router": "^3.0.2"
+  }
+}
